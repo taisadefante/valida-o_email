@@ -1,0 +1,7 @@
+.container {
+  background-color: beige;
+  max-width: 300px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
